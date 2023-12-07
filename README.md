@@ -34,9 +34,9 @@ load("@bazel_tools//tools/build_defs/repo:http.bzl", "http_archive")
 
 http_archive(
     name = "levenshtein",
-    sha256 = "...",
-    strip_prefix = "...",
-    url = "...",
+    sha256 = "13d0ce68ce00788708b716991ac38ebb7509a713b3b2e51eda8e6a14b047206b",
+    strip_prefix = "levenshtein-1.0",
+    url = "https://github.com/syubogdanov/levenshtein/archive/refs/tags/v1.0.zip",
 )
 ```
 
