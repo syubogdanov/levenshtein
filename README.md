@@ -53,4 +53,4 @@ cc_library(
 
 ## License
 
-MIT License, Copyright (c) 2023 Sergei Bogdanov. See [LICENSE](LICENSE) file.
+MIT License, Copyright (c) 2024 Sergei Bogdanov. See [LICENSE](LICENSE) file.
